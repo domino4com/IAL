@@ -9,6 +9,7 @@ This is is an Analog to Digital Converter focused on Load Cells.
 | ChipSet | Nuvoton NAU7802|
 | Datasheet | [.pdf](https://www.nuvoton.com/resource-files/NAU7802%20Data%20Sheet%20V1.7.pdf) |
 | Suggested Arduino Library | [GitHub](https://github.com/sparkfun/SparkFun_Qwiic_Scale_NAU7802_Arduino_Library) |
+| Suggested MicroPython Library | [GitHub](https://github.com/adafruit/CircuitPython_NAU7802)|
 | Resolution | 23 bits |
 
 ## Supported I²C Modes
