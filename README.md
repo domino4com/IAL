@@ -19,6 +19,9 @@ This is is an Analog to Digital Converter focused on Load Cells.
 - [ ] 3.4Mbit/s	High Speed Mode	HS
 - [ ] 5 Mbit/s	Ultra Fast Mode	UFM
 
+## Load Cell
+Testet with this [10kg Load Cell from Amazon](https://www.amazon.com/gp/product/B09K7GMRVQ)
+
 # License: 
 <img src="assets/CC-BY-NC-SA.svg" width=200 align="right">
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
